@@ -1,6 +1,7 @@
 # collection-util
  Java collection util library for Map and Set interface class
  Sample Code Implementation
+ ```
     public static void main(String[] args) {
         HashMap<Integer, String> hashMap = new HashMap<>();
         hashMap.put(1, "B");
@@ -64,3 +65,4 @@
         System.out.println("LinkedHashSet");
         System.out.println(linkedHashSet);
     }
+```
